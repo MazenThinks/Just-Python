@@ -1,1 +1,1 @@
-print("Hello {}{}".format('world', '!'))
+print("Hello {1}{0}".format('!', 'world'))
